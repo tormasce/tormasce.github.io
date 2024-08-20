@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tormasce.github.io/sitemap.html.gz
+Sitemap: https://tormasce.github.io/app/sitemap.html.gz
+Sitemap: https://tormasce.github.io/assets/sitemap.html.gz
+Sitemap: https://tormasce.github.io/css/sitemap.html.gz
+Sitemap: https://tormasce.github.io/includes/sitemap.html.gz
+Sitemap: https://tormasce.github.io/item/sitemap.html.gz
+Sitemap: https://tormasce.github.io/src/sitemap.html.gz
